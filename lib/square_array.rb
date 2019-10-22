@@ -1,5 +1,4 @@
-square_array[1,2,3]
-
+array_one = [1,2,3]
 
 def square_array(array)
   
@@ -8,4 +7,5 @@ def square_array(array)
   new_array.push[new]
   p new_array
   end
+  
 end
