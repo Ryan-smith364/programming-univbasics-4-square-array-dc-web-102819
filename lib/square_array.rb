@@ -6,11 +6,11 @@ def square_array(array)
   squared_array= [ ]
   while i < array.length do
     new = array[i] * array[i]
-    new_array.push[new]
+    squared_array.push[new]
   
     i+=
   end
-  p new_array
+  p squared_array
 end
 
 square_array(array_one)
