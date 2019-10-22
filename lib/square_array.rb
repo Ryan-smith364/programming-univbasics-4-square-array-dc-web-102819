@@ -1,11 +1,12 @@
 array_one = [1,2,3]
 
 def square_array(array)
-  
+  i = 0
   while i < array.length do
   new = square_array[i] * square_array[i]
   new_array.push[new]
   p new_array
+  i+=
   end
   
 end
